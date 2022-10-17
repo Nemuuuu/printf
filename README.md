@@ -1,5 +1,6 @@
 ## The first Team project given by ALX SE Program
-## Printf
+## Project Title
+Create your own Printf
 ## Description
 This code contains manual _printf fucnction which performs like printf available in stdio.h and which writes output to stdout. This is done by collaboration between Neima Nesru and Akrem Beker who are Software Engineering students studying at ALX SE School.
 What you would learn from this project:
@@ -11,12 +12,6 @@ What you would learn from this project:
 	The complexities of printf
 
 	Managing a lot of flies and finding a good workflow
-## Prototype
-int _printf(const char *format, ...);
-## Acknowledgement
-Special thanks to Denis Ritch, inventor of c. CO-founders of ALX SE who gave us this golden opportunity to do Hard things.
-## Authors
-Neima Nesru and Akrem Beker
 ## Tasks
 ## 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 ## mandatory
@@ -167,8 +162,13 @@ r : prints the reversed string
 Handle the following custom conversion specifier:
 
 R: prints the rot13'ed string
->>>>>>> 073fa56793a0ef55a22ce054aa3fcf0df3a9e996
+
 
 ## 15. *
 ## advanced
 All the above options work well together.
+## Acknowledgement
+Special thanks to Denis Ritch, Inventor of C programming language and CO-founders of ALX SE who gave us this golden opportunity to do Hard things.
+## Authors
+Neima Nesru neimanesru34@gmail.com
+Akrem Beker akremmuktar332@gmail.com
