@@ -1,7 +1,6 @@
 ## The first Team project given by ALX SE Program
 ## Printf
 ## Description
-<<<<<<< HEAD
 This code contains manual _printf fucnction which performs like printf available in stdio.h and which writes output to stdout. This is done by collaboration between Neima Nesru and Akrem Beker who are Software Engineering students studying at ALX SE School.
 What you would learn from this project:
 
@@ -15,7 +14,7 @@ What you would learn from this project:
 ## Prototype
 int _printf(const char *format, ...);
 ## Acknowledgement
-Special thanks to Denis Ritch, inventor of c. And Every person who gave us this golden opportunity to challenge our mind.
+Special thanks to Denis Ritch, inventor of c. CO-founders of ALX SE who gave us this golden opportunity to do Hard things.
 ## Authors
 Neima Nesru and Akrem Beker
 ## Tasks
